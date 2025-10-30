@@ -20,6 +20,16 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.succes-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-size: 18px;
+    text-align: justify;
 }
 
 /* ===== HERO SECTION ===== */
