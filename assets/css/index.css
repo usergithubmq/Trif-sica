@@ -195,6 +195,20 @@ body {
     text-align: center;
 }
 
+.footer-container {
+    background-color: #209fbf;
+    color: white;
+    text-align: left;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+a {
+  color: white; 
+  text-decoration: underline; 
+  font-weight: bold; 
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
     .hero-actions {
